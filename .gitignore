@@ -1,0 +1,24 @@
+# Arduino
+build/
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
